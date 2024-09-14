@@ -95,6 +95,7 @@ p {
 }
 .navigation-list-item {
   padding: 24px 0;
+  font-weight: bold;
 }
 .navigation-list-item-link:hover {
   color: #404bbf;
@@ -138,7 +139,7 @@ p {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 2%;
-  text-align: "page-section";
+  text-align: "center";
   max-width: 496px;
   padding-bottom: 48px;
   margin: 0 auto;
@@ -188,6 +189,7 @@ p {
   letter-spacing: 2%;
   color: #2e2f42;
   margin-bottom: 8px;
+  font-weight: bold;
 }
 .feature-text {
   font-weight: 400px;
@@ -213,6 +215,7 @@ p {
 .ourteam-info-title {
   text-align: center;
   margin-bottom: 8px;
+  font-weight: bold;
 }
 .ourteam-info {
   text-align: center;
@@ -273,6 +276,7 @@ p {
   size: 20px;
   line-height: 1.2;
   letter-spacing: 2%;
+  font-weight: bold;
 }
 .ourportfolio-info {
   size: 16px;
