@@ -44,7 +44,7 @@ p {
 }
 .container-header {
   display: flex;
-  width: 1158px;
+
   margin: 0 auto;
   padding: 0 15px;
   justify-content: space-between;
@@ -119,7 +119,7 @@ p {
   align-items: center;
   justify-content: space-between;
 }
-.page-adress-list-item{
+.page-adress-list-item {
   font-style: normal;
 }
 .adress-list-link:hover {
