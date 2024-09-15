@@ -92,10 +92,11 @@ p {
   list-style: none;
   display: flex;
   gap: 40px;
+  font-weight: bold;
 }
 .navigation-list-item {
   padding: 24px 0;
-  font-weight: bold;
+  
 }
 .navigation-list-item-link:hover {
   color: #404bbf;
