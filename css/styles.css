@@ -256,14 +256,7 @@ p {
 .ourportfolio-section {
   background-color: #e7e9fc;
 }
-.ourportfolio-appname {
-  padding: 32px 16px;
-  border-bottom: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  background-color: #ffffff;
-  width: 360px;
-}
+
 .section-ourportfolio-list {
   display: flex;
   flex-wrap: wrap;
@@ -291,6 +284,14 @@ p {
   size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
+}
+.ourportfolio-appname {
+  padding: 32px 16px;
+  border-bottom: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  background-color: #ffffff;
+  width: 360px;
 }
 /*Section Footer Styles */
 .page-footer {
