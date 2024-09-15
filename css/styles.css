@@ -19,10 +19,10 @@ p {
 .page-body {
   font-family: "roboto", sans-serif;
   font-weight: 500px;
-  color: #434455;
-  width: 1440px;
+  color: #434455; 
   height: 3330px;
   margin: auto;
+  background-color: #ffffff;
 }
 /*Header Section Styles */
 .page-section {
@@ -44,7 +44,7 @@ p {
 }
 .container-header {
   display: flex;
-
+  width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
   justify-content: space-between;
@@ -248,16 +248,22 @@ p {
 /*Section Four Styles */
 
 .ourportfolio-list-item {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 48px) /3);
 }
 .page-section-ourportfolio {
   background-color: #e7e9fc;
 }
+.ourportfolio-section{
+  background-color: #E7E9FC;
+}
 .ourportfolio-appname {
   padding: 32px 16px;
-  border: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+  background-color: #ffffff;
+  width: 360px;
+  
 }
 .section-ourportfolio-list {
   display: flex;
@@ -292,7 +298,7 @@ p {
   background-color: #2e2f42;
   color: #f4f4fd;
   list-style: none;
-  width: 1440px;
+  
   height: 312px;
   padding: 100px 0;
 }
