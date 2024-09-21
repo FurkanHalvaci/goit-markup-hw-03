@@ -33,7 +33,7 @@ p {
 }
 
 .page-header {
-  background-color: #e7e9fc;
+  background-color: #ffffff;
   border-bottom: 1px solid #e7e9fc;
 }
 .container-header {
@@ -255,7 +255,7 @@ p {
   background-color: #e7e9fc;
 }
 .ourportfolio-section {
-  background-color: #e7e9fc;
+  background-color: #ffffff;
 }
 
 .section-ourportfolio-list {
@@ -291,7 +291,6 @@ p {
   border-right: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-bottom: 1px solid #e7e9fc;
-  border-top: none;
   margin-bottom: 8px;
   background-color: #ffffff;
   width: 360px;
